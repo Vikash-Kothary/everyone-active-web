@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/Vikash-Kothary/everyone-active-web.wiki.git
+	branch = master
+	commit = b813d531d9fb6c93587d06f225280c88de8b3ebb
+	parent = 51d6f590640dae96bc5ebf9a7a49963c2fe9aab4
+	method = merge
+	cmdver = 0.4.0
